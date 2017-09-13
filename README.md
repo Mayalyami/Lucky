@@ -1,2 +1,0 @@
-# Lucky
-ios game app
